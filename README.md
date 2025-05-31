@@ -45,7 +45,20 @@ Welcome to my GitHub! I'm a Senior Software Engineer and Software Architect with
 
 ## 🧪 Projects
 
-Due to confidentiality agreements, I cannot share source code from my professional work. However, here is a latest personal project that demonstrates my technical capabilities and interest in applied AI:
+Due to confidentiality agreements, I cannot share source code from my professional work. However, here is a latest personal project that demonstrates my technical capabilities and interest in FE development and  applied AI:
+
+### 💻 [Angular Essentials Project](https://github.com/sudhavijj/AngularEssentials)
+
+This repository showcases key concepts and best practices for building scalable front-end applications using **Angular**.
+
+**Key features include:**
+- Modular architecture and reusable components
+- Integration with REST APIs
+- Reactive forms and validation
+- State management and service-based communication
+- Routing, lazy loading, and performance optimizations
+
+This project reflects my frontend development experience from enterprise systems, demonstrating how I build clean, maintainable, and responsive UIs using Angular. It’s designed as both a learning tool and a reference for building production-ready Angular apps.
 
 ### 🤖 [Automated Essay Scoring using DistilBERT and CNN-LSTM](https://github.com/sudhavijj/TermProjectAIT726)
 
